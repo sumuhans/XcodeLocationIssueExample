@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "cdece86143f5952e59793d69438c11d1"
+build_time: [1589280393, 645766000]
+inputs:
+  "/Users/sumuhan/Developer/temp/LocIssue/LocIssue/ViewController.swift": [9223372036, 854775807]
+  "/Users/sumuhan/Developer/temp/LocIssue/LocIssue/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/sumuhan/Developer/temp/LocIssue/LocIssue/SceneDelegate.swift": [9223372036, 854775807]
