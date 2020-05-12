@@ -5,7 +5,7 @@ UITest does not pickup simulated location setup up in scheme when running from X
 ## Background
 As part of our effort to move our CI from a locally run Jenkins to GitHub actions, we are trying to run all UITests from command line without touching the Xcode UI. Some of our UI Tests require a simulated location so we have setup a simulated location in the scheme, as shown below
 
-//schemeLocationSetting.png
+![Scheme Location Settings Image(./screenshots/schemeLocationSetting.png)
 
 We then run the UITests from Xcode and everything is OK
 
